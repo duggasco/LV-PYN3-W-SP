@@ -1,0 +1,2 @@
+gpio_default=7o 14o 16o 17I 49o 50O 52o 53o 57I 58I 59o 60o 61o 62o 63o
+gpio_mmc_cd=17
