@@ -1,9 +1,14 @@
+Understand its a long shot with being a battery cam, but at least documenting my progress for anyone else who may have use:
+
 ![alt text](https://m.media-amazon.com/images/I/71hDrsN5qvL._AC_SL1500_.jpg  "LV-PYN3-W-SP")
 
 ![Image](https://github.com/user-attachments/assets/9f139e1c-ae6a-4ff1-842f-e053b95b7511)
 ![Image](https://github.com/user-attachments/assets/82fd8fc8-c697-4887-a5f3-f5e45f3b92b9)
+**T23ZN**
 ![Image](https://github.com/user-attachments/assets/6be2b45f-cdd4-49e0-8eb6-39dc2f125348)
+**Showing IP5209 charging controller & ATBM6441**
 ![Image](https://github.com/user-attachments/assets/ba66514f-aec0-4e23-a4f7-098b3d0d1334)
+**Rear of board - UART in top right.  Top interface for ATBM6441, bottom for T23ZN**
 
 Shop link: https://www.amazon.com/dp/B0DFLJHQ2Q
 Model: LV-PYN3-W-SP
