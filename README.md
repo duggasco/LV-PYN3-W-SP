@@ -1,6 +1,4 @@
-Understand its a long shot with being a battery cam, but at least documenting my progress for anyone else who may have use:
-
-![alt text](https://m.media-amazon.com/images/I/71hDrsN5qvL._AC_SL1500_.jpg  "LV-PYN3-W-SP")
+![Image](https://m.media-amazon.com/images/I/71hDrsN5qvL._AC_SL1500_.jpg  "LV-PYN3-W-SP")
 
 ![Image](https://github.com/user-attachments/assets/9f139e1c-ae6a-4ff1-842f-e053b95b7511)
 ![Image](https://github.com/user-attachments/assets/82fd8fc8-c697-4887-a5f3-f5e45f3b92b9)
